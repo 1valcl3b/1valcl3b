@@ -1,10 +1,6 @@
-<table>
-  <tr>
-    <td width="55%">
-      <h1>Hello </h1>
-    </td>
-    <td width="45%" align="center">
-      <img src="./assets/dexter.gif" width="280" alt="Dexter">
-    </td>
-  </tr>
-</table>
+# Hello 👋
+
+<p align="center">
+  <img src="./assets/dexter.gif" width="500" alt="Dexter">
+</p>
+
