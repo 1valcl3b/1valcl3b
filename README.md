@@ -1,3 +1,10 @@
-<img align="right" width="280" src="./assets/dexter.gif" alt="Dexter">
-
-# Hello
+<table>
+  <tr>
+    <td width="55%">
+      <h1>Hello </h1>
+    </td>
+    <td width="45%" align="center">
+      <img src="./assets/dexter.gif" width="280" alt="Dexter">
+    </td>
+  </tr>
+</table>
